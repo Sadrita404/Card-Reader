@@ -69,5 +69,31 @@ So to overcome this I am making a custom PCB that's shows the storage of a SD ca
 
 ---
 
+# Now designing the Case in Fusion 360
+
+<img width="1470" height="956" alt="Screenshot 2026-08-19 at 2 54 28 AM" src="https://github.com/user-attachments/assets/d80b21e6-e393-46a6-a514-f461db813ccb" />
+
+
+<img width="1470" height="956" alt="Screenshot 2026-08-19 at 2 55 20 AM" src="https://github.com/user-attachments/assets/d4f4521f-9def-47f7-acd8-8a4b3231762e" />
+<img width="1470" height="956" alt="Screenshot 2026-08-19 at 2 56 09 AM" src="https://github.com/user-attachments/assets/7ea78771-b86f-4d73-8272-7e771a776156" />
+
+<img width="1470" height="956" alt="Screenshot 2026-08-19 at 2 57 11 AM" src="https://github.com/user-attachments/assets/fabb0dca-716b-4985-9865-2a3c871c3a47" />
+
+<img width="1470" height="956" alt="Screenshot 2026-08-19 at 3 02 09 AM" src="https://github.com/user-attachments/assets/2e3976bc-67e1-46d0-8ecc-8081b1f0e2b9" />
+
+<img width="1470" height="956" alt="Screenshot 2026-08-19 at 3 03 05 AM" src="https://github.com/user-attachments/assets/005a72e5-901a-4791-8087-84c865af2dc9" />
+
+<img width="1470" height="956" alt="Screenshot 2026-08-19 at 3 06 26 AM" src="https://github.com/user-attachments/assets/01ed4263-05e9-4f05-b455-6702c2fa4249" />
+
+<img width="1470" height="956" alt="Screenshot 2026-08-19 at 3 06 56 AM" src="https://github.com/user-attachments/assets/8c478a26-42ca-48f4-bafb-f5810146e4c2" />
+
+<img width="547" height="490" alt="Screenshot 2026-08-19 at 3 10 14 AM" src="https://github.com/user-attachments/assets/e740a283-7912-41de-b4bc-07dd68795463" />
+
+
+<img width="1470" height="956" alt="Screenshot 2026-08-19 at 3 10 26 AM" src="https://github.com/user-attachments/assets/71669112-e36f-4531-ab56-61949ced7939" />
+
+
+**Total time spent: 0.6h**
+
 
 
