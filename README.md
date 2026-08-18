@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="922" height="521" alt="Screenshot 2026-08-19 at 3 38 53 AM" src="https://github.com/user-attachments/assets/27fc7184-cdac-43ff-bac5-a819c83728cb" />
+<img width="792" height="359" alt="Screenshot 2026-08-19 at 4 53 19 AM" src="https://github.com/user-attachments/assets/42820969-7022-4797-af3e-9884d13a800f" />
 
 </div>
 
@@ -13,6 +13,14 @@
 It's a Sd Card Reader So that you don't need to put it in your laptop to check the storage left in it. It consist of a 3d printed custom case also it is battery powered with a oled screen to see the data of the Sd card
 
 
+## General wiring 
+
+<div align="center">
+
+<img width="922" height="521" alt="Screenshot 2026-08-19 at 3 38 53 AM" src="https://github.com/user-attachments/assets/27fc7184-cdac-43ff-bac5-a819c83728cb" />
+
+</div>
+
 ## Schematic
  
 <img width="611" height="422" alt="Screenshot 2026-08-19 at 3 36 57 AM" src="https://github.com/user-attachments/assets/e6d02900-bef7-4a1c-a1d8-a0e854a242f9" />
@@ -20,6 +28,7 @@ It's a Sd Card Reader So that you don't need to put it in your laptop to check t
 ## PCB
 
 <img width="516" height="468" alt="Screenshot 2026-08-19 at 3 37 14 AM" src="https://github.com/user-attachments/assets/5201cb92-627e-4df9-a69b-dfc0ee023db1" />
+
 
 
 ## Case 
