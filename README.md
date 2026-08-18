@@ -10,7 +10,8 @@
 |Author | Sadrita Neogi|
 
 ## Overview
-It's a Sd Card Reader So that you don't need to put it in your laptop to check the storage left in it
+It's a Sd Card Reader So that you don't need to put it in your laptop to check the storage left in it. It consist of a 3d printed custom case also it is battery powered with a oled screen to see the data of the Sd card
+
 
 ## Schematic
  
