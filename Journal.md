@@ -20,6 +20,8 @@ So to overcome this I am making a custom PCB that's shows the storage of a SD ca
 
 # Stared with the schematic diagram
 
+So after deciding all the parts I started working on the schematic in EasyEDA as it runs on my browser ..
+
 <img width="1470" height="956" alt="Screenshot 2026-08-19 at 12 41 08 AM" src="https://github.com/user-attachments/assets/de7a57bc-01e4-4ab8-bdbb-e60a708ac2f6" />
 
 
@@ -40,6 +42,7 @@ So to overcome this I am making a custom PCB that's shows the storage of a SD ca
 
 <img width="489" height="437" alt="Screenshot 2026-08-19 at 1 50 08 AM" src="https://github.com/user-attachments/assets/55e4d6a4-f684-481d-83f8-55b9e80da2bf" />
 
+<img width="235" height="131" alt="Screenshot 2026-08-19 at 4 00 00 AM" src="https://github.com/user-attachments/assets/08416a46-0b0c-4fd0-ac47-f9b1544a79f9" />
 
 
 **Total time spent: 0.8h**
