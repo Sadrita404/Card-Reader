@@ -2,6 +2,7 @@
 title: Card Reader
 description: It's a Custom PCB that's shows the storage of a SD card , no more Guessing the storage 
 created_at: "2026-09-18"
+Total Time Spent :  4.2hr
 ---
 
 #  Brain Storming
@@ -53,7 +54,7 @@ So to overcome this I am making a custom PCB that's shows the storage of a SD ca
 
 <img width="596" height="556" alt="Screenshot 2026-08-19 at 2 47 20 AM" src="https://github.com/user-attachments/assets/48692957-53df-4ae4-913d-c360e90b1eff" />
 
-**Total time spent: 0.5h**
+**Total time spent: 0.6h**
 
 ---
 
@@ -93,7 +94,7 @@ So to overcome this I am making a custom PCB that's shows the storage of a SD ca
 <img width="1470" height="956" alt="Screenshot 2026-08-19 at 3 10 26 AM" src="https://github.com/user-attachments/assets/71669112-e36f-4531-ab56-61949ced7939" />
 
 
-**Total time spent: 0.6h**
+**Total time spent: 0.7h**
 
 
 
