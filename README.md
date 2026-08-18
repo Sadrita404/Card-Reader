@@ -68,6 +68,8 @@ It's a Sd Card Reader So that you don't need to put it in your laptop to check t
   </tr>
 </table>
 
+## Note - 
+For the Sd card module I will desolder the L shape jumper and add 90 degree Jumper pins and solder it to the PCB ( don't be shock by the 3d model of the PCB for the Sd Card )
 
 # Project Bill of Materials (BOM)
 
